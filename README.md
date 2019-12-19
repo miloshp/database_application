@@ -1,5 +1,5 @@
 # database_application
-Database application written in Java using Javas' API JDBC. Application supports connection to the Oracle, modification of the data and transactions between databases using precisely designed SQl statements to handle the queries.
+Database application written in Java using Java API JDBC. Application supports connection to the Oracle, modification of the data and transactions between databases using precisely designed SQl statements to handle the queries.
 
 Application consists of : 
 - connection to database. 
